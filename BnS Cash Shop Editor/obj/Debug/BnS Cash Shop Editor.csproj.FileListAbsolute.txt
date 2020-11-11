@@ -1,0 +1,9 @@
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS_Cash_Shop_Editor.Form1.resources
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS_Cash_Shop_Editor.Properties.Resources.resources
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS Cash Shop Editor.csproj.GenerateResource.cache
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS Cash Shop Editor.csproj.CoreCompileInputs.cache
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\bin\Debug\BnS Cash Shop Editor.exe
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\bin\Debug\BnS Cash Shop Editor.pdb
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS Cash Shop Editor.exe
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS Cash Shop Editor.pdb
+C:\Users\Dimension-One\source\repos\BnS Cash Shop Editor\BnS Cash Shop Editor\obj\Debug\BnS_Cash_Shop_Editor.dbLogin.resources
